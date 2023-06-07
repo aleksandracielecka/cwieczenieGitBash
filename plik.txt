@@ -1,1 +1,2 @@
 hej tu zmiana w pliku nadpisuje plik i jeszcze cos
+dodanie nowej eksperymentalnej funkcjonalnosci
